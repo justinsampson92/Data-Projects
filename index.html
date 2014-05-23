@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <title>Speeches &amp; Market Impact   :  An Analysis by justinsampson92</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <h1>Speeches &amp; Market Impact   :  An Analysis</h1>
+        <h2>Price Movement and Sentiment Analysis Project -- S&amp;P 500 and VIX Indices</h2>
+        <a href="https://github.com/justinsampson92/Data-Projects" class="button"><small>View project on</small>GitHub</a>
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <h3>
+<a name="justin-sampson-brandon-flannery" class="anchor" href="#justin-sampson-brandon-flannery"><span class="octicon octicon-link"></span></a>Justin Sampson, Brandon Flannery</h3>
+
+<p>Attached is a repository for our "Speeches &amp; Market Impact: An Analysis" Project. Coming into this project we had a pressing curiosity: "Do political speeches have a direct effect on the financial markets? If so, how large or long-lived is that effect? And is there a way to quantitatively analyze a given speech, and then correlate that analysis of the speech to market performance?" In order to answer these questions we had a very methodical approach. </p>
+
+<p>1) Create a program for analyzing speeches</p>
+
+<p>2) Populate a data set of speeches from several financially significant political figures.</p>
+
+<p>3) Populate another data set of minute by minute price data on the days those speeches were delivered. </p>
+
+<p>4) Collect other types of data on the days of these speeches that would act as a control to our analysis.</p>
+
+<p>5) Write more scripts in order to analyze this multitude of data vectors. </p>
+
+<p><img src="http://www.thebureauinvestigates.com/wp-content/uploads/2012/07/shutterstock_71606587.jpg" alt=""></p>
+
+<p>You will see in this project the culmination of all of these steps, followed by a conclusion on the findings of our analysis. Within this repository is all of the script, data, and analysis files used in the composition and execution of our analysis. Here is a description of the files in this repository for your exploratory reference:</p>
+
+<h1>
+<a name="browser-project-view" class="anchor" href="#browser-project-view"><span class="octicon octicon-link"></span></a>Browser Project View</h1>
+
+<p>Below is a link to view in your browser all of the files used in this analysis. Please visit this link and use the instructions below in order to navigate through this online directory. Note, however, that this browser view of the project will not allow you to utilize the random analysis cells in the iPython Notebooks. In order to utilize these cells, please follow the directions under the "Zip Folder" heading.  </p>
+
+<h3>
+<a name="project-link" class="anchor" href="#project-link"><span class="octicon octicon-link"></span></a>Project Link</h3>
+
+<p><a href="http://nbviewer.ipython.org/github/justinsampson92/Data-Projects/tree/master/stat133proj2/">Speeches &amp; Market Impact: An Analysis</a> </p>
+
+<h3>
+<a name="report-files" class="anchor" href="#report-files"><span class="octicon octicon-link"></span></a>Report Files</h3>
+
+<p>Note: The Files listed below are the files that culminate the report. These files contain all of the graphics, final data, and analysis. If you are uninterested in the backend code, these are the files you would like to explore most. **Also, all of these files can be downloaded to your machine by clicking in the upper-right corner of your screen, or simply by downloading the zip file on the <a href="http://justinsampson92.github.io/Data-Projects/">Project Homepage</a>.</p>
+
+<p>stat133analysis.ipynb- This file contain all of the final analysis in the project. This is the culmination file for the project. The end of the notebook contains a conclusion of the findings.</p>
+
+<p>stat133datacleaning.ipynb- This contains scripts for cleaning our raw data sets. This notebook is essential for the composition of the final analysis. </p>
+
+<p>stat133datagathering.ipynb- This notebook shows the concatenation of all of data, functions used in analysis, as well as our master cleaning script. </p>
+
+<p>stat133projectreport.ipynb- This notebook contains a complete project report with reported difficulties, findings, phenomena, and a final conclusion. </p>
+
+<h3>
+<a name="data-and-functions" class="anchor" href="#data-and-functions"><span class="octicon octicon-link"></span></a>Data and Functions</h3>
+
+<p><img src="http://www.footballphds.com/wp-content/uploads/2012/01/fINANCIAL-OUTLOOK-2012-VOLATILE-STOCK-MARKET1.jpg" alt=""></p>
+
+<p>data- this is a folder containing links to our raw data sets as well as our cleaned data sets used in analysis. </p>
+
+<p>script- this is a folder containing all of the individual scripts written in order to clean the data and allow for analysis. All of the scripts in this file are written in R. Further explanation of these individual scripts and functions can be found in the stat133datacleaning.ipynb and stat133datagathering.ipynb notebooks.</p>
+
+<p>sentimentanalysis.py- This sentiment analysis file includes several python functions used in order to sort and analyze the data set of speeches. These functions are used in this analysis to 1) Extract the collected speeches into a python list, 2) Sort the speeches so their list index matches their placement in the original data file, 3) Apply a Sentiment Analysis function over this list in order to produce a sentiment value data vector that applies to the collection of speeches. </p>
+
+<p>sentiments.csv- This is a dictionary of words and corresponding sentiment values used in order to calculate the sentiment of a given speech. </p>
+
+<p>sanalyzeFRB.py/stat133speechextract.py- a separate function, included in sentimentanalysis.py, intended to extract speeches from their html format. </p>
+
+<p>stat133proj2speeches.html- html file containing all of the speeches used in this analysis. </p>
+
+<p>stat133proj2data- file containing all of the speech data in a csv format. </p>
+
+<p>stat133proj2dataprice- file containing all price data in a  cdv format. This price data was collected through use of a Bloomberg Terminal. </p>
+
+<p>stat133proj2R.R- here is a file containing all of our R scripts for cleaning and further population the final data set</p>
+
+<h1>
+<a name="zip-folder" class="anchor" href="#zip-folder"><span class="octicon octicon-link"></span></a>Zip Folder</h1>
+
+<p>This zip folder holds all of the files, in their native format, used in the composition and execution of this analysis. These files are available for download, and will allow you to further explore the data set by utilizing the random analysis cells in the iPython Notebooks. To view this zip folder in its entirety, you will need to download iPython <a href="http://ipython.org/install.html">here</a>. </p>
+
+<h3>
+<a name="main-folder" class="anchor" href="#main-folder"><span class="octicon octicon-link"></span></a>Main Folder</h3>
+
+<p>stat133proj2- The folder containing all files. Please open this folder to explore all data. </p>
+
+<h3>
+<a name="report-files-1" class="anchor" href="#report-files-1"><span class="octicon octicon-link"></span></a>Report Files</h3>
+
+<p>Note: The Files listed below are the files that culminate the report. These files contain all of the graphics, final data, and analysis. If you are uninterested in the backend code, these are the files you would like to explore most. **Also, all of these files will require an iPython Notebook Installation on your machine for viewing. </p>
+
+<p>stat133analysis.ipynb- This file contain all of the final analysis in the project. This is the culmination file for the project. The end of the notebook contains a conclusion of the findings.</p>
+
+<p>stat133datacleaning.ipynb- This contains scripts for cleaning our raw data sets. This notebook is essential for the composition of the final analysis. </p>
+
+<p>stat133datagathering.ipynb- This notebook shows the concatenation of all of data, functions used in analysis, as well as our master cleaning script. </p>
+
+<p>stat133projectreport.ipynb- This notebook contains a complete project report with reported difficulties, findings, phenomena, and a final conclusion. </p>
+
+<h3>
+<a name="data-and-functions-1" class="anchor" href="#data-and-functions-1"><span class="octicon octicon-link"></span></a>Data and Functions</h3>
+
+<p><img src="http://www.thefinancepages.co.uk/wp-content/uploads/2012/09/Stock-exchange-financial-data.jpg" alt=""></p>
+
+<p>data- this is a folder containing links to our raw data sets as well as our cleaned data sets used in analysis. </p>
+
+<p>script- this is a folder containing all of the individual scripts written in order to clean the data and allow for analysis. All of the scripts in this file are written in R. Further explanation of these individual scripts and functions can be found in the stat133datacleaning.ipynb and stat133datagathering.ipynb notebooks.</p>
+
+<p>sentimentanalysis.py- This sentiment analysis file includes several python functions used in order to sort and analyze the data set of speeches. These functions are used in this analysis to 1) Extract the collected speeches into a python list, 2) Sort the speeches so their list index matches their placement in the original data file, 3) Apply a Sentiment Analysis function over this list in order to produce a sentiment value data vector that applies to the collection of speeches. </p>
+
+<p>sentiments.csv- This is a dictionary of words and corresponding sentiment values used in order to calculate the sentiment of a given speech. </p>
+
+<p>sanalyzeFRB.py/stat133speechextract.py- a separate function, included in sentimentanalysis.py, intended to extract speeches from their html format. </p>
+
+<p>stat133proj2speeches.html- html file containing all of the speeches used in this analysis. </p>
+
+<p>stat133proj2data- file containing all of the speech data in a csv format. </p>
+
+<p>stat133proj2dataprice- file containing all price data in a  cdv format. This price data was collected through use of a Bloomberg Terminal. </p>
+
+<p>stat133proj2R.R- here is a file containing all of our R scripts for cleaning and further population the final data set</p>
+
+<h2>
+<a name="contact" class="anchor" href="#contact"><span class="octicon octicon-link"></span></a>Contact</h2>
+
+<p>If you have any questions regarding this project, please utilize the contact information below:</p>
+
+<p><a href="mailto:brandonjflannery@berkeley.edu">brandonjflannery@berkeley.edu</a></p>
+
+<p><a href="mailto:justinsampson1992@berkeley.edu">justinsampson1992@berkeley.edu</a></p>
+
+<h3>
+<a name="thank-you-for-viewing-this-project" class="anchor" href="#thank-you-for-viewing-this-project"><span class="octicon octicon-link"></span></a>Thank you for viewing this project.</h3>
+        </section>
+
+        <aside id="sidebar">
+          <a href="https://github.com/justinsampson92/Data-Projects/zipball/master" class="button">
+            <small>Download</small>
+            .zip file
+          </a>
+          <a href="https://github.com/justinsampson92/Data-Projects/tarball/master" class="button">
+            <small>Download</small>
+            .tar.gz file
+          </a>
+
+          <p class="repo-owner"><a href="https://github.com/justinsampson92/Data-Projects"></a> is maintained by <a href="https://github.com/justinsampson92">justinsampson92</a>.</p>
+
+          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
+        </aside>
+      </div>
+    </div>
+
+  
+  </body>
+</html>
