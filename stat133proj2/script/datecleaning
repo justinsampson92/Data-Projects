@@ -1,0 +1,9 @@
+
+data$Day=sub("/", ".", data$Day)
+data$Day= sub('/', '.', data$Day)
+data$Day=paste("X", data$Day, sep="")
+Day=as.name(data$Day)
+#to access dataprice use "pricedata[,data$Day[day]]"
+Daydict=vector(mode='list', length=length(data$Day))
+names(Daydict)=data$Day
+Daydict[1:length(data$Day)]= c(1:length(data$Day))

@@ -1,0 +1,9 @@
+
+findprices=function(day){
+  if(any(names(pricedata)== day)){
+  index=as.integer(Daydict[day])
+  return(pricedata[,data$Day[index]])
+  }
+  else{return(NA)}
+  
+}

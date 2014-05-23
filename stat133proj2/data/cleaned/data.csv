@@ -1,0 +1,261 @@
+"","Name","Position","Number","Speech","Day","Time","Title","Link","X","Category","EndTime","X.1","X.2","Rep","Dem","SenateRep","HORRep","Unemployment","FedFunds","Number.1","ChangeVix","ChangeSP"
+"1","Bernanke","Fed Chairman","1,2",0.18627,"X12.16.13","2:00","Concluding Remarks","http://www.federalreserve.gov/newsevents/speech/bernanke20131216b.pdf","","","",NA,NA,0,0,0.45,0.537931034,6.7,0.09,"1,2",0.000728193408169184,0.000728193408169184
+"2","Bernanke","Fed Chairman","1,2",0.18627,"X12.17.13","2:00","Opening Remarks","http://www.federalreserve.gov/newsevents/speech/bernanke20131216b.pdf","","","",NA,NA,0,0,0.45,0.537931034,6.7,0.09,"1,2",-5.61450788837848e-05,-5.61450788837848e-05
+"3","Daniel Tarullo","","3",0.07687,"X11.22.13","12:15","Shadow Banking and Systemic Risk Regulation ","http://www.federalreserve.gov/newsevents/speech/tarullo20131122a.pdf","","","",NA,NA,0,0,0.45,0.537931034,7,0.09,"3",0.00164280164280166,0.00164280164280166
+"4","Bernanke","Fed Chairman","4",0.08636,"X11.14.13","9:30","Brief Remarks","http://www.federalreserve.gov/newsevents/speech/bernanke20131114a.pdf","","","",NA,NA,0,0,0.45,0.537931034,7,0.09,"4",-0.0284810126582279,0.000570096748771767
+"5","Bernanke","Fed Chairman","5",0.069087,"X11.8.13","3:30","The Crisis as a Classic Financial Panic","http://www.federalreserve.gov/newsevents/speech/bernanke20131108a.pdf","","","",NA,NA,0,0,0.45,0.537931034,7,0.08,"5",0.00465842033590547,0.00465842033590547
+"6","Bernanke","Fed Chairman","6",0.212606,"X10.2.13","3:30","Brief Welcoming Remarks","http://www.federalreserve.gov/newsevents/speech/bernanke20131002a.pdf","","","",NA,NA,0,0,0.45,0.537931034,7.2,0.07,"6",0.00204684070728392,0.00204684070728392
+"7","Bernanke","Fed Chairman","7",0.149648,"X6.2.13","2:00","Ten Suggestions","http://www.federalreserve.gov/newsevents/speech/bernanke20130602a.pdf","","","",NA,NA,0,0,0.45,0.537931034,7.3,0.1,"7",NA,NA
+"8","Bernanke","Fed Chairman","8",0.101239,"X5.10.13","9:30","Monitoring the Financial System","http://www.federalreserve.gov/newsevents/speech/bernanke20130510a.pdf","","","",NA,NA,0,0,0.45,0.537931034,7.5,0.12,"8",-0.0106788710907703,0.000190305470975313
+"9","Bernanke","Fed Chairman","9",0.13754,"X4.12.13","12:30","Creating Resilient Communities","http://www.federalreserve.gov/newsevents/speech/bernanke20130412a.pdf","","","",NA,NA,0,0,0.45,0.537931034,7.5,0.15,"9",0.00100172624522757,0.00100172624522757
+"10","Bernanke","Fed Chairman","10",0.260965,"X4.4.13","10:30","Financial and Economic Education","http://www.federalreserve.gov/newsevents/speech/bernanke20130404a.pdf","","","",NA,NA,0,0,0.45,0.537931034,7.5,0.14,"10",-0.0379146919431279,0.00158865941586217
+"11","Bernanke","Fed Chairman","11",0.04416666,"X3.25.13","1:15","Monetary Policy and the Global Economy","http://www.federalreserve.gov/newsevents/speech/bernanke20130325a.pdf","","","",NA,NA,0,0,0.45,0.537931034,7.5,0.15,"11",0.00340138253913853,0.00340138253913853
+"12","Bernanke","Fed Chairman","12",0.070847,"X11.20.12","12:15","Economic Recovery and Economic Policy","http://www.federalreserve.gov/newsevents/speech/bernanke20121120a.pdf","","","",NA,NA,0,0,0.47,0.556321839,7.8,0.16,"12",0.00545537531967918,0.00545537531967918
+"13","Bernanke","Fed Chairman","13",0.0855263,"X11.15.12","1:20","Challenges in Housing and Mortgage Markets","http://www.federalreserve.gov/newsevents/speech/bernanke20121115a.pdf","","","",NA,NA,0,0,0.47,0.556321839,7.8,0.16,"13",0.00150226820297639,0.00150226820297639
+"14","Bernanke","Fed Chairman","14",0.12969,"X10.1.12","12:30","Five Questions about Federal Reserve and Monetary Policy","http://www.federalreserve.gov/newsevents/speech/bernanke20121001a.pdf","","","",NA,NA,0,0,0.47,0.556321839,7.8,0.15,"14",-0.000988989708974261,-0.000988989708974261
+"15","Bernanke","Fed Chairman","15",0.0800344,"X8.31.12","10:00","Monetary Policy since Onset of the Crisis","http://www.federalreserve.gov/newsevents/speech/bernanke20120831a.pdf","","","",NA,NA,0,0,0.47,0.556321839,8.1,0.13,"15",0.00750144258511267,-0.00158882150583396
+"16","Bernanke","Fed Chairman","16",0.294407,"X8.7.12","2:30","Financial Education","http://www.federalreserve.gov/newsevents/speech/bernanke20120807a.pdf","","","",NA,NA,0,0,0.47,0.556321839,8.1,0.13,"16",-0.00320091048120354,-0.00320091048120354
+"17","Bernanke","Fed Chairman","17",0.218575,"X8.6.12","9:00","Economic Measurement","http://www.federalreserve.gov/newsevents/speech/bernanke20120806a.pdf","","","",NA,NA,0,0,0.47,0.556321839,8.1,0.14,"17",-0.00869025450031029,-0.000193104040165627
+"18","Bernanke","Fed Chairman","18",0.117434,"X5.10.12","9:30","Banks and Bank Lending: The State of Play","http://www.federalreserve.gov/newsevents/speech/bernanke20120510a.pdf","","","",NA,NA,0,0,0.47,0.556321839,8.2,0.15,"18",-0.0308008213552362,0.00133072579696502
+"19","Bernanke","Fed Chairman","19",0.027776,"X4.13.12","1:00","Some Reflections on the Crisis and the Policy Response ","http://www.federalreserve.gov/newsevents/speech/bernanke20120413a.pdf","","","",NA,NA,0,0,0.47,0.556321839,8.2,0.15,"19",-0.00545805571281335,-0.00545805571281335
+"20","Bernanke","Fed Chairman","20",-0.02506,"X3.26.12","8:00","Recent Developments in the Labor Market","http://www.federalreserve.gov/newsevents/speech/bernanke20120326a.pdf","","","",NA,NA,0,0,0.47,0.556321839,8.2,0.14,"20",0.0267306374228924,0.00089457504135634
+"21","Bernanke","Fed Chairman","21",0.18566,"X3.14.12","10:00","Community Banking","http://www.federalreserve.gov/newsevents/speech/bernanke20120314a.pdf","","","",NA,NA,0,0,0.47,0.556321839,8.2,0.13,"21",0.0070648683365446,-0.00143400014340001
+"22","Bernanke","Fed Chairman","22",0.067865,"X2.10.12","12:30","Housing Markets in Transition","http://www.federalreserve.gov/newsevents/speech/bernanke20120210a.pdf","","","",NA,NA,0,0,0.47,0.556321839,8.3,0.12,"22",0.000208587860186686,0.000208587860186686
+"23","Bernanke","Fed Chairman","23",0.15767,"X10.18.11","1:15","The Effects of the Great Recession on Central Bank Doctrine and Practice ","http://www.federalreserve.gov/newsevents/speech/bernanke20111018a.pdf","","","",NA,NA,0,0,0.47,0.556321839,8.8,0.07,"23",0.00291090288321997,0.00291090288321997
+"24","FMOC","","24",0.06884,"X4.9.14","2:00","Minutes","http://www.federalreserve.gov/newsevents/press/monetary/20140409a.htm","","","",NA,NA,0,0,0.45,0.537931034,6.7,0.08,"24",0.00690026084384336,0.00690026084384336
+"25","FMOC","","25",0.16987,"X3.19.14","9:00","Statement","http://www.federalreserve.gov/newsevents/press/monetary/20140319a.htm","","","",NA,NA,0,0,0.45,0.537931034,6.7,0.08,"25",0.0139860139860139,-0.00101474044007696
+"26","FMOC","","26",0.100694,"X3.19.14","2:00","projection","http://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20140319.pdf","","","",NA,NA,0,0,0.45,0.537931034,6.7,0.08,"26",-0.00652432741231935,-0.00652432741231935
+"27","FRB","","27",0.111413,"X2.25.14","2:00","Discount Rates","http://www.federalreserve.gov/newsevents/press/monetary/20140225a.htm","","","",NA,NA,0,0,0.45,0.537931034,6.7,0.07,"27",-0.00255157202785107,-0.00255157202785107
+"28","FMOC","","28",0.177215,"X2.19.14","2:00","Minutes","http://www.federalreserve.gov/newsevents/press/monetary/20140129a.htm","","","",NA,NA,0,0,0.45,0.537931034,6.7,0.07,"28",-0.00573047208433687,-0.00573047208433687
+"29","FRB","","29",0.1225,"X1.14.14","2:00","Discount Rates Minutes","http://www.federalreserve.gov/newsevents/press/monetary/20140114b.htm","","","",NA,NA,0,0,0.45,0.537931034,6.6,0.07,"29",0.00180871232757315,0.00180871232757315
+"30","FMOC","","30",0.156626,"X12.18.13","9:00","statement","http://www.federalreserve.gov/newsevents/press/monetary/20131218a.htm","","","",NA,NA,0,0,0.45,0.537931034,6.7,0.09,"30",0.0594560404807084,-0.00797056332419048
+"31","FMOC","","31",0.13301,"X10.30.13","10:00","Statement","http://www.federalreserve.gov/newsevents/press/monetary/20131030a.htm","","","",NA,NA,0,0,0.45,0.537931034,7.2,0.08,"31",-0.0313588850174216,-0.00272152722375943
+"32","FMOC","","32",0.15432,"X9.18.13","11:00","statement","http://www.federalreserve.gov/newsevents/press/monetary/20130918a.htm","","","",NA,NA,0,0,0.45,0.537931034,7.2,0.08,"32",-0.0663928815879534,0.0137482080327137
+"33","FMOC","","33",0.16923,"X7.31.13","12:00","statement","http://www.federalreserve.gov/newsevents/press/monetary/20130731a.htm","","","",NA,NA,0,0,0.45,0.537931034,7.3,0.09,"33",-0.00220780604453495,-0.00220780604453495
+"34","FMOC","","34",0.147727,"X6.19.13","13:00","statement","http://www.federalreserve.gov/newsevents/press/monetary/20130619a.htm","","","",NA,NA,0,0,0.45,0.537931034,7.5,0.1,"34",-0.0125482683995805,-0.0125482683995805
+"35","FMOC","","35",0.182539,"X5.1.13","14:00","statement","http://www.federalreserve.gov/newsevents/press/monetary/20130501a.htm","","","",NA,NA,0,0,0.45,0.537931034,7.5,0.14,"35",-0.00284146395247005,-0.00284146395247005
+"36","FMOC","","36",0.161885,"X3.20.13","15:00","statement","http://www.federalreserve.gov/newsevents/press/monetary/20130320a.htm","","","",NA,NA,0,0,0.45,0.537931034,7.5,0.15,"36",0.000982545370477384,0.000982545370477384
+"37","FMOC","","37",0.095238,"X1.20.13","16:00","statement","http://www.federalreserve.gov/newsevents/press/monetary/20130130a.htm","","","",NA,NA,0,0,0.45,0.537931034,7.9,0.14,"37",0.00340324388564018,0.00340324388564018
+"38","Benanke","Fed Chairman","38",0.056818,"X2.26.13","10:00","monetary policy report","http://www.federalreserve.gov/newsevents/testimony/bernanke20130226a.pdf","","","",NA,NA,0,0,0.45,0.537931034,7.7,0.14,"38",-0.0577136514983351,0.00590892590650584
+"39","Bernanke","Fed Chairman","39",0.081589,"X7.17.13","8:30","monetary policy report","http://www.federalreserve.gov/newsevents/testimony/bernanke20130717a.pdf","","","",NA,NA,0,0,0.45,0.537931034,7.3,0.09,"39",-0.0232886379675371,-0.001081421534549
+"40","Bernanke","Fed Chairman","40",0.07465,"X2.29.12","10:00","monetary policy report","http://www.federalreserve.gov/newsevents/testimony/bernanke20120229a.pdf","","","",NA,NA,0,0,0.47,0.556321839,8.3,0.1,"40",-0.0219538968166849,-0.000401597628383427
+"41","Benanke","Fed Chairman","41",0.073275,"X7.17.12","10:00","monetary policy report","http://www.federalreserve.gov/newsevents/testimony/bernanke20120717a1.pdf","","","",NA,NA,0,0,0.47,0.556321839,8.2,0.17,"41",0.00738007380073785,0.00466856158230359
+"42","Bernanke","Fed Chairman","42",0.12034,"X1.3.14","2:30","Looking Back, Looking Forward","http://www.federalreserve.gov/newsevents/speech/bernanke20140103a.pdf","","","",NA,NA,0,0,0.45,0.537931034,6.6,0.08,"42",-3.82212903508516e-05,-3.82212903508516e-05
+"43","Yellen","Chair","43",0.015428,"X3.31.14","9:55","What the Federal Reserve Is Doing to Promote a Stronger Job Market ","http://www.federalreserve.gov/newsevents/speech/yellen20140331a.pdf","","","",NA,NA,0,0,0.45,0.537931034,6.7,0.06,"43",-0.0221586847748392,0.00177497393675315
+"44","Yellen","Chair","44",0.23697,"X3.5.14","2:30","Remarks on Swearing In","http://www.federalreserve.gov/newsevents/speech/yellen20140305a.pdf","","","",NA,NA,0,0,0.45,0.537931034,6.7,0.08,"44",-0.000874456797035431,-0.000874456797035431
+"45","Yellen","Chair","45",0.194444,"X4.16.13","3:00","Monetary Policy Targets","http://www.federalreserve.gov/newsevents/speech/yellen20130416a.pdf","","","",NA,NA,0,0,0.45,0.537931034,7.5,0.15,"45",0.00207470200024183,0.00207470200024183
+"46","Yellen","Chair","46,47",0.09295,"X3.4.13","8:00","challenges confronting monetary policy","http://www.federalreserve.gov/newsevents/speech/yellen20130304a.pdf","","","",NA,NA,0,0,0.45,0.537931034,7.5,0.16,"46,47",-0.0203951561504143,-0.00113386906449212
+"47","Yellen","Chair","50",0.02658,"X11.29.11","11:30","Aggregate Demand and the Global Economic Recovery","http://www.federalreserve.gov/newsevents/speech/yellen20111129a1.pdf","","","",NA,NA,0,0,0.47,0.556321839,8.6,0.08,"50",-0.00197069015907469,-0.00197069015907469
+"48","Obama","President","51",0.13202,"X4.2.14","2:52","Minimum Wage","http://www.whitehouse.gov/the-press-office/2014/04/02/remarks-president-minimum-wage-ann-arbor-mi","x","","",NA,NA,0,1,0.45,0.537931034,6.7,0.09,"51",0.00104821802935011,0.00104821802935011
+"49","Obama","President","52",0.13202,"X4.1.14","4:19","Affordable care act","http://www.whitehouse.gov/the-press-office/2014/04/02/remarks-president-minimum-wage-ann-arbor-mi","x","","",NA,NA,0,1,0.45,0.537931034,6.7,0.08,"52",0.00375839783652564,0.00375839783652564
+"50","Obama","President","53",0.09657,"X3.20.14","3:00","Minimum Wage","http://www.whitehouse.gov/the-press-office/2014/03/20/remarks-president-minimum-wage","x","","",NA,NA,0,1,0.45,0.537931034,6.7,0.08,"53",-0.000395140835669475,-0.000395140835669475
+"51","Obama","President","54",0.10241,"X3.20.14","11:05","on ukraine","http://www.whitehouse.gov/the-press-office/2014/03/20/statement-president-ukraine","","x","",NA,NA,0,1,0.45,0.537931034,6.7,0.08,"54",-0.000395140835669475,-0.000395140835669475
+"52","Obama","President","55",0.14236,"X3.17.14","10:45","on ukraine","http://www.whitehouse.gov/the-press-office/2014/03/17/statement-president-ukraine","","x","",NA,NA,0,1,0.45,0.537931034,6.7,0.08,"55",0.0070332480818414,-0.00114040419797854
+"53","Obama","President","56",0.06868,"X3.13.14","2:27","on overtime pay","http://www.whitehouse.gov/the-press-office/2014/03/13/remarks-president-overtime-pay","x","","",NA,NA,0,1,0.45,0.537931034,6.7,0.08,"56",-0.00203232257715799,-0.00203232257715799
+"54","Obama","President","57",0.165876,"X3.5.14","2:20","opportunity for all","http://www.whitehouse.gov/the-press-office/2014/03/05/remarks-president-opportunity-all-making-work-pay-and-minimum-wage","x","","",NA,NA,0,1,0.45,0.537931034,6.7,0.08,"57",-0.000874456797035431,-0.000874456797035431
+"55","Obama","President","58",0.120622,"X3.4.14","11:38","budget fy2015","http://www.whitehouse.gov/the-press-office/2014/03/04/remarks-president-announcing-fy2015-budget","x","","",NA,NA,0,1,0.45,0.537931034,6.7,0.07,"58",0.000924056447563812,0.000924056447563812
+"56","Obama","President","59",0.21458,"X2.15.14","6:00","calling on congress to raise minimum wage","http://www.whitehouse.gov/the-press-office/2014/02/15/weekly-address-calling-congress-raise-minimum-wage","","","x",NA,NA,0,1,0.45,0.537931034,6.7,0.06,"59",NA,NA
+"57","Obama","President","60",0.13335,"X1.12.14","2:18","remarks on signing excecutive order","http://www.whitehouse.gov/the-press-office/2014/02/12/remarks-president-signing-executive-order","x","","",NA,NA,0,1,0.45,0.537931034,6.6,0.07,"60",NA,NA
+"58","Obama","President","61",0.06454,"X1.31.14","11:39","long term unemployment","http://www.whitehouse.gov/the-press-office/2014/01/31/remarks-president-long-term-unemployment","x","","",NA,NA,0,1,0.45,0.537931034,6.6,0.07,"61",NA,NA
+"59","Obama","President","62",0.11204,"X12.2.13","11:31","economic nobility","http://www.whitehouse.gov/the-press-office/2013/12/04/remarks-president-economic-mobility","x","","",NA,NA,0,1,0.45,0.537931034,6.7,0.09,"62",-0.00409224133163737,-0.00409224133163737
+"60","Obama","President","63",0.1689,"X12.3.13","2:45","affordable care act","http://www.whitehouse.gov/the-press-office/2013/12/03/remarks-president-affordable-care-act","","","",NA,NA,0,1,0.45,0.537931034,6.7,0.09,"63",0.00197587644632492,0.00197587644632492
+"61","Obama","President","64",0.152879,"X11.26.13","12:50","economy","http://www.whitehouse.gov/the-press-office/2013/11/26/remarks-president-economy-dreamworks","x","","",NA,NA,0,1,0.45,0.537931034,7,0.09,"64",-0.00189903553355704,-0.00189903553355704
+"62","Obama","President","65",0.094385,"X11.19.13","3:28","to wall street journal council","http://www.whitehouse.gov/the-press-office/2013/11/19/remarks-president-wall-street-journal-ceo-council","x","","",NA,NA,0,1,0.45,0.537931034,7,0.09,"65",-0.000648396058199182,-0.000648396058199182
+"63","Obama","President","66",0.09396,"X11.14.13","12:02","Affordable care act","http://www.whitehouse.gov/the-press-office/2013/11/14/statement-president-affordable-care-act","","x","",NA,NA,0,1,0.45,0.537931034,7,0.09,"66",0.00140931715228454,0.00140931715228454
+"64","Obama","President","67",0.04858,"X10.3.13","10:49","Governement Shutdown","http://www.whitehouse.gov/the-press-office/2013/10/03/remarks-president-government-shutdown","x","","",NA,NA,0,1,0.45,0.537931034,7.2,0.08,"67",-0.0360110803324101,0.00195001520654059
+"65","Obama","President","68",0.10941,"X10.1.13","1:01","Afforadble Care Act and Government Shutdown","http://www.whitehouse.gov/the-press-office/2013/10/01/remarks-president-affordable-care-act-and-government-shutdown","x","","",NA,NA,0,1,0.45,0.537931034,7.2,0.08,"68",0.000283266057644653,0.000283266057644653
+"66","Obama","President","69",0.08939,"X9.16.13","12:31","five year anniversary of financial crisis","http://www.whitehouse.gov/the-press-office/2013/09/16/remarks-president-five-year-anniversary-financial-crisis","x","","",NA,NA,0,1,0.45,0.537931034,7.2,0.08,"69",-0.00268480821539574,-0.00268480821539574
+"67","Obama","President","70",-0.00729,"X9.10.13","9:01","remarks on syria","http://www.whitehouse.gov/the-press-office/2013/09/10/remarks-president-address-nation-syria","x","","",NA,NA,0,1,0.45,0.537931034,7.2,0.08,"70",-0.00405679513184576,-0.000291145031817998
+"68","Obama","President","71",0.02706,"X9.3.13","9:51","remarks before meeting about syria","http://www.whitehouse.gov/the-press-office/2013/09/03/remarks-president-meeting-members-congress-situation-syria","x","","",NA,NA,0,1,0.45,0.537931034,7.2,0.09,"71",0.0236406619385342,-0.00393285488680088
+"69","Obama","President","72",0.08948,"X8.31.13","1:52","statement on syria","http://www.whitehouse.gov/the-press-office/2013/08/31/statement-president-syria","","x","",NA,NA,0,1,0.45,0.537931034,7.2,0.07,"72",NA,NA
+"70","Obama","President","73",0.11607,"X8.17.13","6:00","adress on the affordable care act","http://www.whitehouse.gov/the-press-office/2013/08/17/weekly-address-working-implement-affordable-care-act","","","adress",NA,NA,0,1,0.45,0.537931034,7.2,0.09,"73",NA,NA
+"71","Obama","President","74,75",0.12592,"X8.15.13","10:30","remarks on egypt","http://www.whitehouse.gov/the-press-office/2013/08/15/remarks-president-situation-egypt","x","","",NA,NA,0,1,0.45,0.537931034,7.2,0.08,"74,75",0.0435714285714285,-0.00351506499271188
+"72","Obama","President","76",0.11075,"X7.30.13","2:00","remarks on jobs for the middle class","http://www.whitehouse.gov/the-press-office/2013/07/30/remarks-president-jobs-middle-class-073013","x","","",NA,NA,0,1,0.45,0.537931034,7.3,0.09,"76",-0.00127952989123987,-0.00127952989123987
+"73","Obama","President","77",0.1199,"X7.25.13","2:45","remarks on economy","http://www.whitehouse.gov/the-press-office/2013/07/25/remarks-president-economy-jacksonville-fl","x","","",NA,NA,0,1,0.45,0.537931034,7.3,0.09,"77",0.00153466930542877,0.00153466930542877
+"74","Obama","President","78",0.11351,"X7.24.13","1:13","remarks on economy","http://www.whitehouse.gov/the-press-office/2013/07/24/remarks-president-economy-knox-college-galesburg-il","x","","",NA,NA,0,1,0.45,0.537931034,7.3,0.09,"78",0.000688517195123447,0.000688517195123447
+"75","Obama","President","79",0.2024,"X7.18.13","11:30","remarks on affordable care act","http://www.whitehouse.gov/the-press-office/2013/07/18/remarks-president-affordable-care-act","x","","",NA,NA,0,1,0.45,0.537931034,7.3,0.09,"79",0.000183534036683093,0.000183534036683093
+"76","Bush","President","86",0.1875,"X1.4.08","1:47","","President Meets with Working Group on Financial Markets","http://georgewbush-whitehouse.archives.gov/news/releases/2008/01/20080104-4.html","Economy","1:50",NA,NA,1,0,0.49,0.455172414,5,4.18,"86",-0.00791347187765744,-0.00791347187765744
+"77","Bush","President","87",0.134,"X1.7.08","2:18","","President Bush Discusses Economy in Chicago, Illinois","http://georgewbush-whitehouse.archives.gov/news/releases/2008/01/20080107-7.html","Economy","2:40",NA,NA,1,0,0.49,0.455172414,5,4.27,"87",-0.00266907047331983,-0.00266907047331983
+"78","Bush","President","88",0.13928,"X1.18.08","11:34","","President Bush Discusses Economy, Growth Package","http://georgewbush-whitehouse.archives.gov/news/releases/2008/01/20080118-1.html","Economy","11:38",NA,NA,1,0,0.49,0.455172414,5,4.17,"88",0.000944151547653217,0.000944151547653217
+"79","Bush","President","89",0.1131298,"X1.18.08","12:14","","Press Briefing by Treasury Secretary Henry Paulson and Chairman of the Council of Economic Advisors Ed Lazear","http://georgewbush-whitehouse.archives.gov/news/releases/2008/01/20080118-6.html","Economy","12:42",NA,NA,1,0,0.49,0.455172414,5,4.17,"89",0.000944151547653217,0.000944151547653217
+"80","Bush","President","90",0.20312,"X1.18.08","1:55","","President Bush Tours Factory, Discusses Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/01/20080118-7.html","Economy","1:59",NA,NA,1,0,0.49,0.455172414,5,4.17,"90",0.000944151547653217,0.000944151547653217
+"81","Bush","President","91",0.18125,"X1.22.08","2:43","","President Bush Meets with Bicameral and Bipartisan Members of Congress","http://georgewbush-whitehouse.archives.gov/news/releases/2008/01/20080122-5.html","Economy","2:35",NA,NA,1,0,0.49,0.455172414,5,3.68,"91",-0.00330836217058973,-0.00330836217058973
+"82","Bush","President","92",0.17968,"X1.23.08","1:45","","President Bush Participates in Briefing with Mayors on Free Trade Agreements","http://georgewbush-whitehouse.archives.gov/news/releases/2008/01/20080123-8.html","Economy","1:48",NA,NA,1,0,0.49,0.455172414,5,3.43,"92",0.048049294175677,0.048049294175677
+"83","Bush","President","93",0.12019,"X1.24.08","2:31","","President Bush Discusses the Bipartisan Economic Growth Agreement","http://georgewbush-whitehouse.archives.gov/news/releases/2008/01/20080124-3.html","Economy","2:34",NA,NA,1,0,0.49,0.455172414,5,3.47,"93",0.00605686308066631,0.00605686308066631
+"84","Bush","President","94",0.16831,"X1.25.08","12:47","","President Bush Attends 2008 Congress of Tomorrow Luncheon","http://georgewbush-whitehouse.archives.gov/news/releases/2008/01/20080125-3.html","Economy","12:51",NA,NA,1,0,0.49,0.455172414,5,3.6,"94",-0.00890090573233229,-0.00890090573233229
+"85","Bush","President","95",0.01302,"X1.29.08","3:38","","President Bush Signs Executive Order Protecting American Taxpayers from Government Spending on Wasteful Earmarks","http://georgewbush-whitehouse.archives.gov/news/releases/2008/01/20080129-3.html","Economy","3:41",NA,NA,1,0,0.49,0.455172414,5,3.47,"95",0.00546907867059308,0.00546907867059308
+"86","Bush","President","96",0.09697,"X1.30.08","2:51","","President Bush Discusses Trade and Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/01/20080130-6.html","Economy","3:08",NA,NA,1,0,0.49,0.455172414,5,3.26,"96",-0.00294891970996161,-0.00294891970996161
+"87","Bush","President","97",0.113537,"X2.1.08","11:47","","President Bush Discusses Economy in Kansas City","http://georgewbush-whitehouse.archives.gov/news/releases/2008/02/20080201-7.html","Economy","12:00",NA,NA,1,0,0.49,0.455172414,4.9,3.12,"97",0.00825144508670526,0.00825144508670526
+"88","Bush","President","98",0.24431,"X2.4.08","10:57","","President Bush Meets with Cabinet, Discusses Budget","http://georgewbush-whitehouse.archives.gov/news/releases/2008/02/20080204-1.html","Economy","11:01",NA,NA,1,0,0.49,0.455172414,4.9,2.82,"98",0.0169358014966522,-0.00355990092932899
+"89","Bush","President","99",0.019736,"X2.11.08","1:07","","President Bush Signs 2008 Economic Report","http://georgewbush-whitehouse.archives.gov/news/releases/2008/02/20080211-3.html","Economy","1:09",NA,NA,1,0,0.49,0.455172414,4.9,2.88,"99",0.00112138633254338,0.00112138633254338
+"90","Bush","President","100",0.1846,"X2.13.08","1:59","","President Bush Signs H.R. 5140, the Economic Stimulus Act of 2008","http://georgewbush-whitehouse.archives.gov/news/releases/2008/02/20080213-3.html","Economy","2:05",NA,NA,1,0,0.49,0.455172414,4.9,3.02,"100",NA,NA
+"91","Bush","President","101",0.0381944,"X2.26.08","2:11","","President Bush Meets with Former Cabinet Secretaries and Senior Government Officials on Free Trade Agreements","http://georgewbush-whitehouse.archives.gov/news/releases/2008/02/20080226-6.html","Economy","2:13",NA,NA,1,0,0.49,0.455172414,4.9,2.85,"101",-0.00175613563437694,-0.00175613563437694
+"92","Bush","President","102",0.08333,"X2.28.08","11:41","","President Bush Meets with His Economic Team","http://georgewbush-whitehouse.archives.gov/news/releases/2008/02/20080228-3.html","Economy","11:44",NA,NA,1,0,0.49,0.455172414,4.9,3.06,"102",-0.000935016362786329,-0.000935016362786329
+"93","Bush","President","103",0.32986,"X3.7.08","1:55","","President Bush Discusses Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/03/20080307-4.html","Economy","1:58",NA,NA,1,0,0.49,0.455172414,5.1,2.96,"103",-0.000540929006931654,-0.000540929006931654
+"94","Bush","President","104",0.08277,"X3.14.08","11:20","","President Bush Visits the Economic Club of New York","http://georgewbush-whitehouse.archives.gov/news/releases/2008/03/20080314-5.html","Economy","11:59",NA,NA,1,0,0.49,0.455172414,5.1,2.99,"104",0.00278694650308289,0.00278694650308289
+"95","Bush","President","105",0.045,"X3.17.08","9:40","","President Bush Discusses Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/03/20080317-1.html","Economy","9:41",NA,NA,1,0,0.49,0.455172414,5.1,2.69,"105",0.0422006877149111,-0.0144237049787525
+"96","Bush","President","106",0.1325,"X3.18.08","2:13","","President Bush Visits Jacksonville, Florida, Discusses Trade Policy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/03/20080318-4.html","Economy","2:41",NA,NA,1,0,0.49,0.455172414,5.1,2.16,"106",0.0128784765036307,0.0128784765036307
+"97","Bush","President","107",0.2161,"X3.26.08","12:25","","President Bush Visits ColorCraft of Virginia, Inc., Discusses Stimulus Package, Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/03/20080326-1.html","Economy","12:30",NA,NA,1,0,0.49,0.455172414,5.1,2.3,"107",0.000417732755469817,0.000417732755469817
+"98","Bush","President","108",0.08295,"X3.28.08","3:30","","President Bush Discusses Housing, Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/03/20080328-9.html","Economy","3:38",NA,NA,1,0,0.49,0.455172414,5.1,2.09,"108",-0.00889957273008142,-0.00889957273008142
+"99","Bush","President","109",-0.01666,"X4.7.08","1:46","","President Bush Meets with Small and Mid-Size Business Owners to Discuss Economic Stimulus Package","http://georgewbush-whitehouse.archives.gov/news/releases/2008/04/20080407-6.html","Economy","1:49",NA,NA,1,0,0.49,0.455172414,5,2.24,"109",-0.00763502277492585,-0.00763502277492585
+"100","Bush","President","110",0.125,"X4.14.08","10:14","","President Bush Meets with Cabinet, Discusses Economy, Colombia Free Trade Agreement","http://georgewbush-whitehouse.archives.gov/news/releases/2008/04/20080414.html","Economy","10:17",NA,NA,1,0,0.49,0.455172414,5,2.32,"110",-0.00248550124275072,-0.00188747349265313
+"101","Bush","President","111",-0.015,"X4.25.08","9:16","","President Bush Discusses Economic Stimulus Rebate Checks","http://georgewbush-whitehouse.archives.gov/news/releases/2008/04/20080425.html","Economy","9:18",NA,NA,1,0,0.49,0.455172414,5,2.28,"111",-0.00623441396508722,0.00503494075263686
+"102","Bush","President","112",0.129405,"X5.2.08","12:11","","President Bush Discusses Economy, Trade","http://georgewbush-whitehouse.archives.gov/news/releases/2008/05/20080502-8.html","Economy","1:15",NA,NA,1,0,0.49,0.455172414,5.4,1.88,"112",0.00464699863574366,0.00464699863574366
+"103","Bush","President","113",0.1777,"X5.7.08","10:06","","President Bush Meets with House Republican Conference","http://georgewbush-whitehouse.archives.gov/news/releases/2008/05/20080507.html","Economy","10:09",NA,NA,1,0,0.49,0.455172414,5.4,2.01,"113",0.0352,-0.0104224933266305
+"104","Bush","President","114",0.3464,"X5.19.08","11:15","","President Bush Meets with the Secretary of the Treasury","http://georgewbush-whitehouse.archives.gov/news/releases/2008/05/20080519.html","Economy","11:18",NA,NA,1,0,0.49,0.455172414,5.4,1.95,"114",-0.00782401869418867,-0.00782401869418867
+"105","Bush","President","115",0.12877,"X5.23.08","10:54","","President Bush Discusses World Trade Week","http://georgewbush-whitehouse.archives.gov/news/releases/2008/05/20080523.html","Economy","11:15",NA,NA,1,0,0.49,0.455172414,5.4,1.99,"115",-0.0142638818135506,0.000814308564781075
+"106","Bush","President","116",0.1415,"X6.2.08","11:00","","President Bush Discusses Economy and Tax Cuts","http://georgewbush-whitehouse.archives.gov/news/releases/2008/06/20080602-2.html","Economy","11:03",NA,NA,1,0,0.49,0.455172414,5.6,2.06,"116",-0.0274779195289499,0.00531783688097617
+"107","Bush","President","117",0.13409,"X7.11.08","11:38","","President Bush Meets with Economic Team","http://georgewbush-whitehouse.archives.gov/news/releases/2008/07/20080711-4.html","Economy","11:41",NA,NA,1,0,0.49,0.455172414,5.8,1.97,"117",0.0100640513714816,0.0100640513714816
+"108","Bush","President","118",0.11422,"X7.14.08","13:27","","President Bush Discusses Outer Continental Shelf Exploration","http://georgewbush-whitehouse.archives.gov/news/releases/2008/07/20080714-4.html","Economy","",NA,NA,1,0,0.49,0.455172414,5.8,2.06,"118",0.000578368999421661,0.000578368999421661
+"109","Bush","President","119",0.06235,"X7.15.08","10:22","","Press Conference by the President","http://georgewbush-whitehouse.archives.gov/news/releases/2008/07/20080715-1.html","Economy","11:04",NA,NA,1,0,0.49,0.455172414,5.8,2.16,"119",-0.0421388101983002,0.0063623427814396
+"110","Bush","President","120",0.12045,"X7.30.08","10:59","","President Bush Meets with Cabinet Members","http://georgewbush-whitehouse.archives.gov/news/releases/2008/07/20080730-1.html","Economy","",NA,NA,1,0,0.49,0.455172414,5.8,2.03,"120",-0.025148605395519,0.012338670892563
+"111","Bush","President","121",0.09513,"X7.31.08","10:38","","President Bush Attends 2008 Annual Meeting of the West Virginia Coal Association","http://georgewbush-whitehouse.archives.gov/news/releases/2008/07/20080731-5.html","Economy","11:10",NA,NA,1,0,0.49,0.455172414,5.8,2.09,"121",-0.00180831826401459,-0.000839656917752808
+"112","Bush","President","122",0.08198,"X8.12.08","1:57","","President Bush Meets with Coalition for Affordable American Energy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/08/20080812-2.html","Economy","",NA,NA,1,0,0.49,0.455172414,6.1,1.95,"122",-0.00627249119616569,-0.00627249119616569
+"113","Bush","President","123",0.2045,"X9.18.08","10:00","","President Bush Discusses Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/09/20080918.html","Economy","10:17",NA,NA,1,0,0.49,0.455172414,6.1,2.16,"123",-0.00209314495028776,0.0101261002397376
+"114","Bush","President","124",0.12422,"X9.19.08","10:45","","President Bush Discusses Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/09/20080919-2.html","Economy","10:54",NA,NA,1,0,0.49,0.455172414,6.1,1.48,"124",0.00450305564490192,-0.0082019878318673
+"115","Bush","President","125",0.10584,"X9.23.08","9:30","","Press Gaggle Via Conference Call with Deputy Press Secretary Tony Fratto on the Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/09/20080923-6.html","Economy","9:41",NA,NA,1,0,0.49,0.455172414,6.1,1.46,"125",0.0331541218637995,-0.0083916545078351
+"116","Bush","President","126",0.13928,"X9.26.08","9:30","","President Bush Discusses Negotiations to Finalize Legislation on the Financial Rescue Package","http://georgewbush-whitehouse.archives.gov/news/releases/2008/09/20080926.html","Economy","9:42",NA,NA,1,0,0.49,0.455172414,6.1,1.08,"126",-0.00653223516046589,0.00427779731109894
+"117","Bush","President","127",-0.03079,"X9.30.08","8:45","","President Bush Discusses Economic Rescue Plan","http://georgewbush-whitehouse.archives.gov/news/releases/2008/09/20080930.html","Economy","8:49",NA,NA,1,0,0.49,0.455172414,6.1,2.03,"127",-0.00768468021814582,0.00611995104039168
+"118","Bush","President","128",-0.02314,"X10.2.08","11:36","","President Bush Meets with Representatives of American Businesses on the Economic Rescue Package","http://georgewbush-whitehouse.archives.gov/news/releases/2008/10/20081002-1.html","Economy","11:39",NA,NA,1,0,0.49,0.455172414,6.5,0.67,"128",-0.00842714126807566,-0.00842714126807566
+"119","Bush","President","129",0.02724,"X10.3.08","14:03","","President Bush Discusses Emergency Economic Stabilization Act of 2008","http://georgewbush-whitehouse.archives.gov/news/releases/2008/10/20081003-11.html","Economy","14:08",NA,NA,1,0,0.49,0.455172414,6.5,1.1,"129",-0.0420904028652845,-0.0420904028652845
+"120","Bush","President","130",0.2121,"X10.3.08","14:38","","President Bush Visits Department of the Treasury","http://georgewbush-whitehouse.archives.gov/news/releases/2008/10/20081003-16.html","Economy","14:39",NA,NA,1,0,0.49,0.455172414,6.5,1.1,"130",-0.0420904028652845,-0.0420904028652845
+"121","Bush","President","131",-0.0625,"X10.6.08","11:44","","President Bush Meets with Small Business Owners in Texas, Discusses Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/10/20081006.html","Economy","11:47",NA,NA,1,0,0.49,0.455172414,6.5,1.96,"131",0.0226821880957218,0.0226821880957218
+"122","Bush","President","132",0.086499,"X10.7.08","2:00","","President Bush Discusses Emergency Economic Stabilization Act of 2008","http://georgewbush-whitehouse.archives.gov/news/releases/2008/10/20081007-4.html","Economy","2:35",NA,NA,1,0,0.49,0.455172414,6.5,2.97,"132",-0.04325487145505,-0.04325487145505
+"123","Bush","President","133",0.132,"X10.10.08","10:25","","President Bush Discusses the Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/10/20081010.html","Economy","10:33",NA,NA,1,0,0.49,0.455172414,6.5,0.79,"133",-0.00603815013036912,0.0279413106973348
+"124","Bush","President","134",0.1675,"X10.11.08","7:54","","President Bush Meets with G7 Finance Ministers to Discuss World Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/10/20081011-2.html","Economy","8:00",NA,NA,1,0,0.49,0.455172414,6.5,0.85,"134",NA,NA
+"125","Bush","President","135",0.177,"X10.14.08","8:02","","President Bush Discusses Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/10/20081014.html","Economy","8:08",NA,NA,1,0,0.49,0.455172414,6.5,1.1,"135",0.0303030303030303,-0.0157055789967183
+"126","Bush","President","136",0.17186,"X10.15.08","9:57","","President Bush Meets with Cabinet","http://georgewbush-whitehouse.archives.gov/news/releases/2008/10/20081015.html","Economy","10:00",NA,NA,1,0,0.49,0.455172414,6.5,1.04,"136",0.0567079290732687,-0.0171936242487589
+"127","Bush","President","137",0.08533,"X10.15.08","1:41","","President Bush Visits Ada, Michigan, Discusses Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/10/20081015-8.html","Economy","1:46",NA,NA,1,0,0.49,0.455172414,6.5,1.04,"137",-0.0442682836960069,-0.0442682836960069
+"128","Bush","President","138",0.0986,"X10.17.08","8:40","","President Bush Discusses the Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/10/20081017-4.html","Economy","8:59",NA,NA,1,0,0.49,0.455172414,6.5,0.6,"138",-0.146411483253589,0.0490741332651452
+"129","Bush","President","139",0.10966,"X10.20.08","2:32","","President Bush Participates in Roundtable Meeting on Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/10/20081020-8.html","Economy","2:37",NA,NA,1,0,0.49,0.455172414,6.5,0.7,"139",0.0275286757038582,0.0275286757038582
+"130","Bush","President","140",0.079,"X11.13.08","1:58","","President Bush Discusses Financial Markets and World Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/11/20081113-4.html","Economy","2:22",NA,NA,1,0,0.49,0.455172414,6.8,0.35,"140",0.0982970363853301,0.0982970363853301
+"131","Bush","President","141",0.2951,"X11.24.08","10:25","","President Bush Meets with Secretary of the Treasury Henry Paulson","http://georgewbush-whitehouse.archives.gov/news/releases/2008/11/20081124.html","Economy","10:27",NA,NA,1,0,0.49,0.455172414,6.8,0.62,"141",-0.0271898655955508,0.0261098497657118
+"132","Bush","President","142",0.1068,"X12.5.08","11:29","","President Bush Discusses Economy","http://georgewbush-whitehouse.archives.gov/news/releases/2008/12/20081205-1.html","Economy","11:33",NA,NA,1,0,0.49,0.455172414,7.3,0.12,"142",0.0459038704901985,0.0459038704901985
+"133","Bush","President","143",0.09201,"X12.18.08","10:44","","President Bush Addresses the American Enterprise Institute","http://georgewbush-whitehouse.archives.gov/news/releases/2008/12/20081218-2.html","Economy","11:52",NA,NA,1,0,0.49,0.455172414,7.3,0.11,"143",0.0837813620071685,-0.0248580330114678
+"134","Bush","President","144",0.09246,"X12.19.08","9:01","","President Bush Discusses Administrations Plan to Assist Automakers,http://georgewbush-whitehouse.archives.gov/news/releases/2008/12/20081219.html,Economy,9:08,,,1,0,0.49,0.455172414,7.3,0.11,144
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+","","","",NA,NA,NA,NA,NA,NA,NA,NA,"",0.031063321385902,-0.00841232622489921

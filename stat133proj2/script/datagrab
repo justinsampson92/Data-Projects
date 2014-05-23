@@ -1,0 +1,9 @@
+
+pricedata_url = "https://bspace.berkeley.edu/access/content/user/874797/stat133projdataprice.csv"
+regressiondata_url = "https://bspace.berkeley.edu/access/content/user/874797/stat133proj2data2a.csv"
+price_file= './data/raw/pricedata.csv'
+regression_file= './data/raw/regressiondata.csv'
+#download.file(pricedata_url, price_file, method = 'curl')
+#download.file(regressiondata_url, regression_file, method = 'curl')
+pricedata=read.csv(price_file, header=TRUE, sep=",")
+data=read.table(regression_file, header=TRUE, sep=",")

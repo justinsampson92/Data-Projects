@@ -1,0 +1,3 @@
+
+data$ChangeVix= mapply(percentchangevix, data$Day, data$Time)
+data$ChangeSP= mapply(percentchangesp, data$Day, data$Time)

@@ -1,0 +1,14 @@
+
+print(c("Speaker:", as.character(data$Name[data$Speech == max(data$Speech)])))
+print(c("Title:", as.character(data$Link[data$Speech == max(data$Speech)])))
+
+maxsent=data$Day[data$Speech == max(data$Speech)]
+print(c("Date:", maxsent))
+maxsenttime=data$Time[data$Speech == max(data$Speech)]
+print(c("Time:", as.character(maxsenttime)))
+maxsenttimemins=timetomins(maxsenttime)-390
+print(c("Minutes into Market:",maxsenttimemins))
+plot(x=2:810, as.numeric(as.character(pricedata[, maxsent][2:810])), ylab="SPY Prices", main="S&P 500 Prices on May 19, 2008", xlab="Minutes into Market Hours | 9:30-4:00")
+abline(v=maxsenttimemins, col="red" )
+plot(x=1:808, as.numeric(as.character(pricedata[, maxsent][815:1622])), ylab="VIX Prices", main="VIX Prices on May 19, 2008", xlab="Minutes into Market Hours | 9:30-4:00")
+abline(v=maxsenttimemins, col="red" )

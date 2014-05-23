@@ -1,0 +1,16 @@
+
+Name=data$Name # this is the name of the speaker
+Position=data$Position # this is the position that the speaker holds
+Sent=data$Speech # float value for the average sentiment of the speech
+Day=data$Day # date that the speech was given
+Time=data$Time # start time of the speech
+Title=data$Title #Title or Topic of the speech
+Link=data$Link # this is the link to the speech
+Change=data$Change #percent change of market from start to finish of the 3 hour speech interval
+EndTime=data$Endtime #this is the end time of the speech if available
+Rep=data$Rep #this is a boolean number value to tell the speaker's political party
+Dem=data$Dem #this is a boolean number value to tell the speaker's political party
+SenateRep= data$SenateRep # percentage of senators that were republican at time of speech
+HORRep = data$HORRep # percentage of House of Representative Members that were republican at time of speech
+Umemployment=data$Unemployment #represents umemployment percentage at time of speech
+FedFunds = data$FedFunds #represents the Federal Funds Rate at the time of the speech

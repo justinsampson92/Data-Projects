@@ -1,0 +1,14 @@
+
+print(c("Speaker:", as.character(data$Name[data$Speech == min(data$Speech)])))
+print(c("Title:", as.character(data$Link[data$Speech == min(data$Speech)])))
+
+minsent=data$Day[data$Speech == min(data$Speech)]
+print(c("Date:", minsent))
+minsenttime=data$Time[data$Speech == min(data$Speech)]
+print(c("Time:", as.character(minsenttime)))
+minsenttimemins=timetomins(minsenttime)-390
+print(c("Minutes into Market:",minsenttimemins))
+plot(x=2:810, as.numeric(as.character(pricedata[, minsent][2:810])), ylab="SPY Prices", main="SPY Prices on October 6, 2008", xlab="Minutes into Market Hours | 9:30-4:00")
+abline(v=minsenttimemins, col="red" )
+plot(x=1:808, as.numeric(as.character(pricedata[, minsent][815:1622])), ylab="VIX Prices", main="VIX Prices on October 6, 2008", xlab="Minutes into Market Hours | 9:30-4:00")
+abline(v=minsenttimemins, col="red" )

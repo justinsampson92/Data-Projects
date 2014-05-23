@@ -1,0 +1,5 @@
+
+bushdata = data[data$Name == 'Bush',]
+
+model = lm(data$ChangeSP ~ data$Speech + data$SenateRep + data$HORRep + data$Unemployment + data$FedFunds, data = bushdata)
+print(summary(model))

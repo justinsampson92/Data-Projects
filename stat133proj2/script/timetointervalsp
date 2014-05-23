@@ -1,0 +1,26 @@
+
+timetointervalsp= function(time){
+  mins=timetomins(time)
+  if(mins < (390+60)){
+    return(c(406, 406-180))
+  }
+  if(mins > 780-120){
+    return(c(2+180, 2))
+  }
+  else{
+    return(c(406-(mins-390-60), (406-(mins-390+120))))
+  }
+}
+
+timetointervalvix= function(time){
+  mins=timetomins(time)
+  if(mins < (390+60)){
+    return(c(1219, 1219-180))
+  }
+  if(mins > 780-120){
+    return(c(2+180, 2))
+  }
+  else{
+    return(c(1219-(mins-390-60), (1219-(mins-390+120))))
+  }
+}

@@ -1,0 +1,12 @@
+timetomins=function(timeofspeech){
+  x=sub(":", " ", timeofspeech)
+  a=strsplit(x, " ")
+  a=unlist(a)
+  b=as.numeric(a[1])
+  c=as.numeric(a[2])
+  if (b<8){
+    b=b+12
+  }
+  return(b*60-180+c)
+  
+}

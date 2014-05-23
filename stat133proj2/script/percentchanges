@@ -1,0 +1,20 @@
+
+percentchangesp=function(day, time){
+  x=timetointervalsp(time)
+  prices=findprices(day)
+  first=x[1]
+  last=x[2]
+  pfirst=as.numeric(as.character(prices[first]))
+  plast=as.numeric(as.character(prices[last]))
+  return((plast-pfirst)/pfirst)
+}
+
+percentchangevix=function(day, time){
+  x=timetointervalvix(time)
+  prices=findprices(day)
+  first=x[1]
+  last=x[2]
+  pfirst=as.numeric(as.character(prices[first]))
+  plast=as.numeric(as.character(prices[last]))
+  return((plast-pfirst)/pfirst)
+}
